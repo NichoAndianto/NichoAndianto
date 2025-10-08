@@ -10,7 +10,7 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Pong 2D </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Beach Pong</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Side Scroll</a></th> <!--tittle-->
     </tr>
   </thead>
