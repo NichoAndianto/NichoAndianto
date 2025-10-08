@@ -33,9 +33,13 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
     </tr>
     <tr>
       
-  </tbody>
-</table>
-
-
-<br>
-
+ <table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Spell Type (Coming Soon)</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Side Scroll</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      
