@@ -29,7 +29,7 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/NichoAndianto/Pong_2D">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/NichoAndianto/Project3_SideScroll)">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/NichoAndianto/Project3_SideScroll">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       
