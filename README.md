@@ -11,7 +11,7 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
   <thead>
     <tr>
       <th width="50%" align="center"><a>Beach Pong</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Mountain of Monster></th> <!--tittle-->
+      <th width="50%" align="center"><a>Mountain of Monster</th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
