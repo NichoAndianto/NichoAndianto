@@ -2,8 +2,8 @@ Hi, I'm Nicho 👋
 ---
 **📌About** <br>
 Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
-**📩Email|:03nicholasa@gmail.com
-** <br>
+📩Email: 03nicholasa@gmail.com
+<br>
 
 <br>
 
