@@ -1,111 +1,65 @@
-<h2>Hi, I'm Nicho 👋</h2>
-
-<hr>
-
-<h3>📌 About</h3>
-<p>
-  Hi, I'm <b>Nicholas Andianto</b>, also known as Nicho.<br>
-  I specialize in <b>Game Programming</b>.<br>
-  📩 Email: <a href="mailto:03nicholasa@gmail.com">03nicholasa@gmail.com</a>
-</p>
-
+Hi, I'm Nicho 👋
+---
+**📌About** <br>
+Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
+<br>
+📩Email: 03nicholasa@gmail.com
 <br>
 
-<!-- ====================== PROJECT SECTION 1 ====================== -->
+<br>
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center">Beach Pong</th>
-      <th width="50%" align="center">Mountain of Monster</th>
+      <th width="50%" align="center"><a>Beach Pong</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Mountain of Monster</th> <!--tittle-->
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://media3.giphy.com/media/VWxnA6yAitgvRhtyZY/giphy.gif"
-             alt="Beach Pong"
-             style="width:100%;height:auto;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhvZTlseHliZ2NkenBudnh4amp3YmVmM3dic3JmcXR3ZGt6OTdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VWxnA6yAitgvRhtyZY/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://media1.giphy.com/media/UxJXpXI0aKwSLsWA9w/giphy.gif"
-             alt="Mountain of Monster"
-             style="width:100%;height:auto;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY3OXQ1NjhlZjdlOGc5enozd2RmaWRwZXo5ZGhoeGxmNzRtcnJ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxJXpXI0aKwSLsWA9w/giphy.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
-
     <tr>
-      <td valign="top">
-        Beach Pong is a simple arcade game created to practice fundamental gameplay mechanics.  
-        I implemented player controls, collision logic, and scoring systems to support smooth two-player gameplay.
-      </td>
-
-      <td valign="top">
-        Monster in a Mountain is a platformer project exploring movement, obstacles, and level flow.
-        I developed character controls, interactive environment elements, and helped balance overall gameplay.
-      </td>
+      <td valign="text-top">Beach Pong is a simple yet engaging arcade game created to practice fundamental game development skills. I contributed by implementing player controls, collision mechanics, and scoring systems, ensuring smooth two-player gameplay within a concise development time.</td> <!--desc-->
+      <td valign="text-top">Monster in a Mountain is a platformer-style project designed to explore core mechanics such as movement, obstacle navigation, and level progression. I contributed by implementing character controls, designing interactive environments, and balancing the overall gameplay experience within a short development cycle.</td> <!--desc-->
     </tr>
-
     <tr>
-      <td align="center">
-        <a href="https://github.com/NichoAndianto/Pong_2D">Read More</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/NichoAndianto/Project3_SideScroll">Read More</a>
-      </td>
+      <td align="center"><a href="https://github.com/NichoAndianto/Pong_2D">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/NichoAndianto/Project3_SideScroll">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
 
 <br><br>
 
-<!-- ====================== PROJECT SECTION 2 ====================== -->
-
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center">Tank in Dungeon</th>
-      <th width="50%" align="center">SpellType</th>
+      <th width="50%" align="center"><a>Tank in Dungeon</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>SpellType</a></th> <!--tittle-->
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://media4.giphy.com/media/KXeT05OTIps1L38H8c/giphy.gif"
-             alt="Tank in Dungeon"
-             style="width:100%;height:auto;">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lva2RvcHhhcmJ5YXV0bzhybWx0bjBkNGg3MGRpa29manhlZW53MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KXeT05OTIps1L38H8c/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
-
       <td align="center">
-        <!-- Replace with actual GIF when available -->
-        <img src="https://via.placeholder.com/480x270?text=SpellType+Gameplay"
-             alt="SpellType"
-             style="width:100%;height:auto;">
+        <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
-
     <tr>
-      <td valign="top">
-        Tank in Dungeon is a top-down shooter where you control a powerful tank inside an endless dungeon.
-        Featuring responsive aim-shooting that tracks the mouse cursor, score progression, and survival-based endless mode.
-      </td>
-
-      <td valign="top">
-        SpellType is a 2D typing dungeon crawler where you play as a young mage learning the Ancient Language.
-        Cast spells by typing them correctly as if reciting words from a forgotten spellbook.
-      </td>
+      <td valign="text-top">Tank in Dungeon is a top-down shooter where you control a powerful tank fighting through an endless dungeon. Move freely across the map while using a responsive aim-shooting system that automatically tracks your mouse cursor for precise targeting.</td> <!--desc-->
+      <td valign="text-top">SpellType is a 2D typing-based dungeon crawler game where you play as a young mage learning the forgotten Ancient Language. To cast spells, you must type them correctly, as if reciting mantras from an ancient spellbook.</td> <!--desc-->
     </tr>
-
     <tr>
-      <td align="center">
-        <a href="https://github.com/NichoAndianto/TopDownShooter">Read More</a>
-      </td>
-
-      <td align="center">
-        <a href="https://github.com/arvedd/Spelltype">Read More</a>
-      </td>
+      <td align="center"><a href="https://github.com/NichoAndianto/TopDownShooter">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/arvedd/Spelltype">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
