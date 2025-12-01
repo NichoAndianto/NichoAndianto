@@ -21,7 +21,7 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhvZTlseHliZ2NkenBudnh4amp3YmVmM3dic3JmcXR3ZGt6OTdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VWxnA6yAitgvRhtyZY/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpiOWFtbnBubnRuaG00ZDd5bTluMXN4anEwM240aGVtc3UyNTF3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lwty0975PEtKxmhwnd/giphy.gif" alt="2" style="width:100%;height:auto;">
+        <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ6c2Q1eTE2Zm5hMXk0eGRhZ3MxN3U3N3h1Mzd4YWp1cTRidDBndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBtGywu8xgTra1a3Gu/giphy.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/434f1932-e865-48bc-be53-c34a61f250af" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
