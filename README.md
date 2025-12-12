@@ -50,7 +50,7 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
         <img src="https://github.com/user-attachments/assets/434f1932-e865-48bc-be53-c34a61f250af" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZiMHlyNzdlaXhseGhpaHY2d2JsbDVnMmk5a2Z3ZGt4NWhjNGNqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bp2kVKOiw0UYZKtuoz/giphy.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
