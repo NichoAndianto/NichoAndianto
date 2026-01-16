@@ -81,11 +81,11 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
       </td>
     </tr>
     <tr>
-      <td valign="text-top"></td> <!--desc-->
+      <td valign="text-top">SafeWaste is an educational game that teaches players how to manage hazardous waste by cleaning polluted areas through interactive missions.</td> <!--desc-->
       <td valign="text-top"></td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/arvedd/Safe-Waste-PKM">Read More</a></td> <!--link1-->
       <td align="center"><a href="">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
