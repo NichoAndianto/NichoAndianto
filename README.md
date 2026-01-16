@@ -63,3 +63,31 @@ Hi, I'm Nicholas Andianto, also known as Nicho. I specialize in Game Programming
     </tr>
   </tbody>
 </table>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>SafeWaste</a></th> <!--tittle-->
+      <th width="50%" align="center"><a></a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top"></td> <!--desc-->
+      <td valign="text-top"></td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="">Read More</a></td> <!--link1-->
+      <td align="center"><a href="">Read More</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
+
